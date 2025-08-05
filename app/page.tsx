@@ -177,7 +177,7 @@ export default function Home() {
                   />
                 </motion.div>
                 <Avatar className="size-24 !-mt-10 ml-3 ring-4 ring-card">
-                  <AvatarImage src="/profile-avatar.jpg" alt="Profile Avatar" />
+                  <AvatarImage src="/1672582850272.jpg" alt="Profile Avatar" />
                 </Avatar>
                 <div className="-mt-10 ml-28 mb-5">
                   <motion.div
@@ -199,9 +199,9 @@ export default function Home() {
                     transition={{ delay: 0.5, duration: 0.3 }}
                   >
                     <div>
-                      <h1 className="text-xl font-semibold">Ms</h1>
+                      <h1 className="text-xl font-semibold">Thirawat</h1>
                       <p className="text-sm font-medium text-muted-foreground flex items-center">
-                        ksufe <Dot className="size-4" /> He / Him
+                        Thirawat <Dot className="size-4" />  / Pooh
                       </p>
                     </div>
                   </motion.div>
