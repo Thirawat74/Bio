@@ -186,7 +186,7 @@ export default function Home() {
                     transition={{ delay: 0.6, duration: 0.3 }}
                   >
                     <Badge variant="secondary" className="max-w-full whitespace-nowrap">
-                      แม้เสียเวลา... ยังดีกว่าเสียคนที่รักไป
+                      ง่วงง
                     </Badge>
                   </motion.div>
                 </div>
@@ -235,7 +235,7 @@ export default function Home() {
                         เกี่ยวกับฉัน
                       </p>
                       <p className="text-sm font-medium">
-                        &quot; ถ้าวันนั้นผมไม่ขับแรง แมลงคงไม่ได้เป็น &quot;
+                        &quot; อย่าหยุดค้นคว้าหากยังไม่ประสบความสำเร็จ... &quot;
                       </p>
                     </CardContent>
                   </Card>
@@ -252,7 +252,7 @@ export default function Home() {
                         <Calendar className="size-3" />
                         เป็นประชากรบนโลกตั้งแต่
                       </p>
-                      <p className="text-sm font-medium">4 กุมภาพันธ์ 2553</p>
+                      <p className="text-sm font-medium">16 กันยายน 2551</p>
                     </CardContent>
                   </Card>
                 </motion.div>
