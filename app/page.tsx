@@ -284,7 +284,7 @@ export default function Home() {
                               1MILL
                             </p>
                             <h1 className="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-transparent bg-clip-text text-lg font-extrabold">
-                              INTRO
+                              SATURDAY
                             </h1>
                             <span className="text-muted-foreground text-xs font-medium">
                               {formatTime(currentTime)} / {formatTime(duration)}
