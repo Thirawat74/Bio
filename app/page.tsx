@@ -213,7 +213,7 @@ export default function Home() {
                     <div className="flex items-center gap-x-2">
                       <Button variant="secondary" size="icon" asChild>
                         <Link
-                          href="https://www.facebook.com/ma.kumpha"
+                          href="https://www.facebook.com/share/1ArQNAvgRU/"
                           target="_blank"
                         >
                           <Facebook />
