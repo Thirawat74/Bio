@@ -177,7 +177,7 @@ export default function Home() {
                   />
                 </motion.div>
                 <Avatar className="size-24 !-mt-10 ml-3 ring-4 ring-card">
-                  <AvatarImage src="/1672582850272.jpg" alt="Profile Avatar" />
+                  <AvatarImage src="/โปรเจ็กต์ใหม่ 389 [B744C57].png" alt="Profile Avatar" />
                 </Avatar>
                 <div className="-mt-10 ml-28 mb-5">
                   <motion.div
