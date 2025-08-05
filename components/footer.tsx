@@ -9,11 +9,11 @@ const Footer: React.FC = () => {
           <p className="text-sm text-muted-foreground font-medium flex flex-wrap items-center justify-center sm:justify-start gap-x-1.5 tracking-tight">
             &copy; {new Date().getFullYear()}{" "}
             <span className="bg-gradient-to-t from-sky-500 to-indigo-500 bg-clip-text text-transparent">
-              (ksufe) My Sastify
+              bio Thirawat
             </span>
-            <span>•</span> Made with 💕 by{" "}
+            <span>•</span> Made with 💻 by{" "}
             <span className="font-semibold bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
-              Sastify Studio
+              Thirawat
             </span>
           </p>
 
