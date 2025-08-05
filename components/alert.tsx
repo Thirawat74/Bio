@@ -28,8 +28,7 @@ export default function Alert() {
           <div className="max-w-[100rem] px-4 py-2 sm:px-6 lg:px-8 mx-auto relative">
             <div className="flex items-center justify-between relative pr-8 sm:pr-0">
               <p className="text-white font-medium text-sm flex-grow text-center">
-                Sastify Studio รับเขียนเว็บไซต์ทุกรูปแบบ ทั้ง Static และ Dynamic
-                เริ่มต้นเพียง 999 บาท
+                นี้คือเว็ปbioของผมเองอยู่ในช่วงพัฒนาอาจจะมีบัคเล็กน้อย
               </p>
               <X
                 className="size-4 absolute right-0 sm:static cursor-pointer"
