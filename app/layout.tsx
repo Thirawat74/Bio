@@ -12,13 +12,13 @@ const font = IBM_Plex_Sans_Thai({
 });
 
 export const metadata: Metadata = {
-  title: "ksufe - My Sastify",
-  description: '" ถ้าวันนั้นผมไม่ขับแรง แมลงคงไม่ได้เป็น "',
+  title: "Thirawat - bio",
+  description: '" web bio "',
   openGraph: {
-    title: "ksufe - My Sastify",
+    title: "Thirawat - bio",
     type: "website",
-    url: "https://ksufe.vercel.app",
-    description: '" ถ้าวันนั้นผมไม่ขับแรง แมลงคงไม่ได้เป็น "',
+    url: "https://thirawatkubb.vercel.app",
+    description: '" bio-thirawat"',
   },
 };
 
