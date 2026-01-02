@@ -186,7 +186,7 @@ export default function Home() {
                     transition={{ delay: 0.6, duration: 0.3 }}
                   >
                     <Badge variant="secondary" className="max-w-full whitespace-nowrap">
-                      ง่วงง
+                      🔥🔥
                     </Badge>
                   </motion.div>
                 </div>
